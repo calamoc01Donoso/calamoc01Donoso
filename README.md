@@ -1,29 +1,93 @@
-### ¡Hola! Soy Celia Alamo Calle 👋
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
 
-### 👩‍💻 Estudiante de DAM 2026 | 🎨 Diseñadora Gráfica
+<p align="center">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
-Soy una desarrolladora en formación y diseñadora gráfica apasionada por crear soluciones que no solo funcionen a la perfección por dentro, sino que también se vean increíbles por fuera. Actualmente estoy expandiendo mis horizontes explorando el mundo de la Inteligencia Artificial. 
+---
 
-### 🛠️ Tecnologías y Herramientas
+### 🔮 Sobre Mí
 
-### Desarrollo & Backend
+Soy una desarrolladora de aplicaciones multiplataforma y diseñadora gráfica. Me apasiona fusionar la lógica estructurada del desarrollo *backend* con la armonía visual del desarrollo *frontend* y el diseño de interfaces. Mi objetivo es crear software robusto que ofrezca experiencias de usuario memorables.
 
-### Frontend & Diseño Web
+- 🎓 Actualmente cursando **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+- 🚀 Investigando la integración de **Modelos de Inteligencia Artificial** en entornos de desarrollo de software.
+- 🎨 Especializada en diseño de interfaces y maquetación web adaptativa.
 
-### En Aprendizaje / Intereses
+---
 
-### 📊 Mis Estadísticas de GitHub
+### 🛠️ Tech Stack & Herramientas
 
-Aquí puedes ver mi actividad y lenguajes más utilizados en mis proyectos de clase y personales: 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h4>💻 Backend & Datos</h4>
+      <img src="https://skillicons.dev" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>🎨 Frontend & Web</h4>
+      <img src="https://skillicons.dev" />
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>⚙️ Entornos & Herramientas</h4>
+      <img src="https://skillicons.dev" />
+    </td>
+  </tr>
+</table>
 
-****
+---
+
+### 📊 Estadísticas Dinámicas
+
+<p align="center">
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" width="97%" />
+</p>
+
+---
 
 ### 🚀 Proyectos Destacados
 
-Tengo diversos proyectos desarrollados a lo largo de mi trayectoria en DAM y trabajos de diseño: 
+<table align="center" width="100%">
+  <tr>
+    <td>
+      🎯 <b><a href="https://github.com">DF_calculadora</a></b><br>
+      Desarrollo de una calculadora completa utilizando la arquitectura y elementos visuales de <b>JavaFX</b>.
+    </td>
+    <td>
+      🔄 <b><a href="https://github.com">Transformación XML</a></b><br>
+      Procesamiento y parseo de datos estructurados transformando <b>XML a HTML</b> mediante hojas de estilo XSL.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      💾 <b><a href="https://github.com">CRUD XStream</a></b><br>
+      Módulo de persistencia y gestión de datos orientado al acceso de información con exportación/importación <b>XStream</b>.
+    </td>
+    <td>
+      📱 <b><a href="https://github.com">Android Compose</a></b><br>
+      Pruebas de interfaz nativa y layouts modernos en entornos móviles utilizando <b>Kotlin y Jetpack Compose</b>.
+    </td>
+  </tr>
+</table>
 
-* 📂 **[DF_calculadora](https://github.com/calamoc01Donoso/DF_calculadora)** - Calculadora desarrollada en JavaFX.
-* 📂 **[ACCD_TransformacionXMLHTML](https://github.com/calamoc01Donoso/ACCD_TransformacionXMLHTML)** - Transformación de XML a HTML mediante XSL.
-* 📂 **[ACCD_CRUDXStream](https://github.com/calamoc01Donoso/ACCD_CRUDXStream)** - Creación de un CRUD que exporta e importe con XStream en Acceso a Datos.
+---
 
-### 🌐 Conéctate Conmigo
+### 🌐 Hablemos
+
+<p align="center">
+  <a href="#" target="_blank"><img src="https://shields.io" /></a>
+  <a href="#" target="_blank"><img src="https://shields.io" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" alt="Contador de visitas" />
+</p>
