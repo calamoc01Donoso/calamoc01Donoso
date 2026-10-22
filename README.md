@@ -1,28 +1,39 @@
-### ¡Hola! Soy Celia Alamo Calle 👋
+### 🔮 Sobre Mí
 
-### 👩‍💻 Estudiante de DAM 2026 | 🎨 Diseñadora Gráfica
+Soy una desarrolladora de aplicaciones multiplataforma y diseñadora gráfica. Me apasiona fusionar la lógica estructurada del desarrollo *backend* con la armonía visual del desarrollo *frontend* y el diseño de interfaces. Mi objetivo es crear software robusto que ofrezca experiencias de usuario memorables. 
 
-Soy una desarrolladora en formación y diseñadora gráfica apasionada por crear soluciones que no solo funcionen a la perfección por dentro, sino que también se vean increíbles por fuera. Actualmente estoy expandiendo mis horizontes explorando el mundo de la Inteligencia Artificial. 
+* 🎓 Actualmente cursando **2º de Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+* 🚀 Investigando la integración de **Modelos de Inteligencia Artificial** en entornos de desarrollo de software.
+* 🎨 Especializada en diseño de interfaces y maquetación web adaptativa.
 
-### 🛠️ Tecnologías y Herramientas
-
-### Desarrollo & Backend
-
-### Frontend & Diseño Web
-
-### En Aprendizaje / Intereses
-
-### 📊 Mis Estadísticas de GitHub
-
-Aquí puedes ver mi actividad y lenguajes más utilizados en mis proyectos de clase y personales: 
+### 🛠️ Tech Stack & Herramientas
 
 ****
 
+### 📊 Estadísticas Dinámicas
+
 ### 🚀 Proyectos Destacados
 
-Tengo diversos proyectos desarrollados a lo largo de mi trayectoria en DAM y trabajos de diseño: 
+**
+🎯 ****DF_calculadora
 
-* 📂 **[DF_calculadora](https://github.com/calamoc01Donoso/DF_calculadora)** - Calculadora desarrollada en JavaFX.
-* 📂 **[ACCD_TransformacionXMLHTML](https://github.com/calamoc01Donoso/ACCD_TransformacionXMLHTML)** - Transformación de XML a HTML mediante XSL.
-* 📂 **[ACCD_CRUDXStream](https://github.com/calamoc01Donoso/ACCD_CRUDXStream)** - Creación de un CRUD que exporta e importe con XStream en Acceso a Datos.
+Desarrollo de una calculadora completa utilizando la arquitectura y elementos visuales de ****JavaFX. 
 
+**
+
+🔄 ****Transformación XML
+
+Procesamiento y parseo de datos estructurados transformando ****XML a HTML mediante hojas de estilo XSL. 
+
+**
+💾 ****CRUD XStream
+
+Módulo de persistencia y gestión de datos orientado al acceso de información con exportación/importación ****XStream. 
+
+**
+
+📱 ****Android Compose
+
+Pruebas de interfaz nativa y layouts modernos en entornos móviles utilizando ****Kotlin y Jetpack Compose. 
+
+### 🌐 Hablemos
