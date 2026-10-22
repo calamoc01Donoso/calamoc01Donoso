@@ -1,5 +1,5 @@
 <h1>Celia Álamo Calle</h1>
-<2>Estudiante  DAM</h2>
+<h2>Estudiante  DAM</h2>
 ---
 
 ### 🔮 Sobre Mí
