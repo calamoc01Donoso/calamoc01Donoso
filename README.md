@@ -41,19 +41,6 @@ Soy una desarrolladora de aplicaciones multiplataforma y diseñadora gráfica. M
 
 ---
 
-### 📊 Estadísticas Dinámicas
-
-<p align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" width="97%" />
-</p>
-
----
-
 ### 🚀 Proyectos Destacados
 
 <table align="center" width="100%">
