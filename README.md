@@ -2,11 +2,6 @@
   <img src="https://vercel.app" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
 
 ---
 
